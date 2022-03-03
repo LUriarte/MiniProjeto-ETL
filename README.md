@@ -3,6 +3,7 @@ Meu primeiro projeto de ETL e análise de dados, desenvolvido durante o curso de
 
 * Ferramentas utilizadas:
   - Linguagem de programação Python
+  - Linguagem de programação SQL
   - Bibliotecas Pandas e PySpark
  
 * Metodologia:
